@@ -6,6 +6,7 @@
 ![DFD](https://github.com/WeCare36/wecare/assets/152693351/e03d6e98-3bdb-4973-a596-88933ce2f614)
 
 ## Class Diagram
+![Class Diagram](https://github.com/WeCare36/wecare/assets/152693351/9d38b0d8-7a0b-4d58-95d7-93806503ae44)
 
 ## Wireframes
 
