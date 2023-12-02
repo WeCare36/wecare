@@ -10,3 +10,13 @@
 
 ## Wireframes
 
+### Citizen's or User Pages
+![Citizen 1](https://github.com/WeCare36/wecare/assets/152693351/a16ea848-6f65-48c9-a45d-00fbf5460714)
+![Citizen 2](https://github.com/WeCare36/wecare/assets/152693351/335f5645-03c5-4540-b3dd-6733bab2d289)
+
+### Admin Pages
+![Admin 1](https://github.com/WeCare36/wecare/assets/152693351/e6a59451-4cfb-4087-9c10-bf677be20844)
+![Admin 2](https://github.com/WeCare36/wecare/assets/152693351/5743ac75-cf0e-48f6-a98d-77ae5f323432)
+
+### Officer Pages
+![Officer](https://github.com/WeCare36/wecare/assets/152693351/2aa7815b-e62a-468d-a9a8-c1e135bf3532)
