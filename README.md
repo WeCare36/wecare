@@ -7,7 +7,7 @@ DFD is the abbreviation for Data Flow Diagram. The flow of data of a system or a
 ![DFD](https://github.com/WeCare36/wecare/assets/152693351/e03d6e98-3bdb-4973-a596-88933ce2f614)
 
 ## Class Diagram
-A class diagram in the Unified Modeling Language (UML) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects.A class diagram is used to visualize, describe, document various different aspects of the system, and also construct executable software code.
+A class diagram in the Unified Modeling Language (UML) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects. A class diagram is used to visualize, describe, document various different aspects of the system, and also construct executable software code.
 ![Class Diagram](https://github.com/WeCare36/wecare/assets/152693351/9d38b0d8-7a0b-4d58-95d7-93806503ae44)
 
 ## Wireframes
